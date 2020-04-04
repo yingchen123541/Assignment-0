@@ -1,2 +1,10 @@
 # Assignment-0
-hello world assignment 
+name: Yuki Chen
+student ID: 2320235
+email: yingchen@chapman.edu
+
+purpose: write a program to print "hello world"
+
+reference: none
+
+error: none 
